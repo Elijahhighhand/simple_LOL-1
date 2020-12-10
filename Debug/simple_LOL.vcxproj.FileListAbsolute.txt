@@ -1,0 +1,2 @@
+D:\simple_LOL\Debug\simple_LOL.exe
+D:\simple_LOL\Debug\simple_LOL.pdb
